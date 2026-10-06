@@ -6,7 +6,7 @@ A tiny Windows app that keeps Microsoft Teams showing you as Available (green), 
 
 ## How to use
 
-1. Download `Stay Available.bat` from the [latest release](../../releases/latest).
+1. Download `Stay-Available.bat` from the [latest release](../../releases/latest).
 2. Double-click it. A small window opens.
 3. Click **Turn on**. The status changes to "On - you'll stay green".
 4. Click **Turn off**, or just close the window, to go back to normal.
