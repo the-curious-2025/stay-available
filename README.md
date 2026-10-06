@@ -2,7 +2,7 @@
 
 A tiny Windows app that keeps Microsoft Teams showing you as Available (green), even when you step away from the computer.
 
-**Heads up: this is a beta and I haven't tested it myself yet.** It was written and checked on a machine, but not tried for real with Teams over a longer stretch. If something doesn't work, please open an issue.
+Tested on Windows with Teams. If something doesn't work for you, please open an issue.
 
 <p>
   <img src="screenshots/off.png" alt="Stay Available, turned off" width="300">
